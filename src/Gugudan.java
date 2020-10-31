@@ -43,15 +43,20 @@ public class Gugudan {
 //			System.out.println(result[i]);
 //		}
 
-		// 이중반복문
-//		for (int i = 2; i < 10; i++) {
-//			for (int j = 0; j < result.length; j++) {
-//				result[i] = i * (j + 1);
-//				System.out.println(result[i]);
+	// 이중반복문
+//			int[] result = new int[10];
+//			for (int i = 2; i < 10; i++) {
+//				System.out.println(i+"단");
+//				for (int j =1; j < result.length; j++) {
+//					result[i] = i * (j);
+//					System.out.println(result[i]);
+//				}
+//				System.out.println(" ");
+//				
+//				
+//		
 //			}
-//			
-//	
-//		}
+			
 
 		// 2단
 //		System.out.println("2단");
